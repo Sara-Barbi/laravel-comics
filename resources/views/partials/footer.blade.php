@@ -11,8 +11,7 @@
                         <li>Tv</li>
                         <li>Games</li>
                         <li>Videos</li>
-                        <li>News</li>
-                        
+                        <li>News</li>                        
                     </ul>
                     <h4>SHOP</h4>
                     <ul class="p-0">
