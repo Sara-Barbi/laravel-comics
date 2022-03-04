@@ -1,0 +1,36 @@
+footer{
+    .my_img{
+        background-image: url("/images/footer-bg.jpg");
+        overflow: hidden;
+        height: 400px;
+        .bastasirow{
+            height: 85%;
+        }
+    }
+    img{
+        width: 100%;
+    }
+    h4{
+        color: white;
+    }
+    ul{
+        li{
+            list-style-type: none;
+            color: dimgray;
+            font-size: 12px;
+        }
+    }
+    .logo_foot{
+        position: relative;
+        top: -50px;
+        right: 0px;
+        margin-left: 200px;
+    }
+    .more_info{
+        color: dimgray;
+        font-size: 12px;
+        a{
+            text-decoration: none;
+        }
+    }
+}

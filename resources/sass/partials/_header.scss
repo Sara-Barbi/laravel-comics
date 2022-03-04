@@ -1,0 +1,22 @@
+header{
+    nav{
+        height: 100px;
+        font-weight: 700;
+        color: rgb(74, 74, 74);
+        .logo_dc{
+            width: 70px;
+        }
+        .drop{
+            color:rgb(14, 153, 252);
+        }
+        .blue_rule{
+            color:rgb(14, 153, 252);
+            width: 100px;
+        }
+    }
+    .jumbo_header{
+        height: 300px;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+}

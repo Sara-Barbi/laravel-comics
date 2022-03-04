@@ -1,0 +1,102 @@
+header nav {
+  height: 100px;
+  font-weight: 700;
+  color: #4a4a4a;
+}
+
+header nav .logo_dc {
+  width: 70px;
+}
+
+header nav .drop {
+  color: #0e99fc;
+}
+
+header nav .blue_rule {
+  color: #0e99fc;
+  width: 100px;
+}
+
+header .jumbo_header {
+  height: 300px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+footer .my_img {
+  background-image: url("/images/footer-bg.jpg");
+  overflow: hidden;
+  height: 400px;
+}
+
+footer .my_img .bastasirow {
+  height: 85%;
+}
+
+footer img {
+  width: 100%;
+}
+
+footer h4 {
+  color: white;
+}
+
+footer ul li {
+  list-style-type: none;
+  color: dimgray;
+  font-size: 12px;
+}
+
+footer .logo_foot {
+  position: relative;
+  top: -50px;
+  right: 0px;
+  margin-left: 200px;
+}
+
+footer .more_info {
+  color: dimgray;
+  font-size: 12px;
+}
+
+footer .more_info a {
+  text-decoration: none;
+}
+
+main .black_back {
+  background-color: #252525;
+}
+
+main .black_back .cards {
+  width: 170px;
+}
+
+main .black_back .serie_image {
+  width: 170px;
+  height: 170px;
+  overflow: hidden;
+}
+
+main .black_back .subtit {
+  color: white;
+  font-size: 14px;
+}
+
+main .blu_back {
+  background-color: #0e99fc;
+  color: white;
+  height: 100px;
+}
+
+main .blu_back .img_ass {
+  width: 44px;
+}
+
+.container {
+  max-width: 1100px;
+}
+
+* {
+  font-family: PT Sans Narrow, Arial, Helvetica, sans-serif;
+}
+
